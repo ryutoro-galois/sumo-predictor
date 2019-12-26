@@ -1,4 +1,4 @@
-## 【GithuPages:Sumo-Predictor】
+## 【GithubPages:Sumo-Predictor】
 
 ### 目次
 - [x]  **相撲予測の進捗（2019/11作成）**
