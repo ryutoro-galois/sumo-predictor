@@ -30,7 +30,7 @@
 
 ### その他のGithubPagesへのリンク
 - [【keiba-predictor】](https://ryutoro-galois.github.io/keiba-predictor/)
-- [【toy-sample】](https://ryutoro-galois.github.io/toy-sample/)
+- [【toy-samples】](https://ryutoro-galois.github.io/toy-samples/)
 
 
 QED.
