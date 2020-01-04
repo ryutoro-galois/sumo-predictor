@@ -19,8 +19,9 @@
   - 15日間(初日~千秋楽)で1つのレポートが完成する
 - 各場所の予測レポート(html形式)：
   - **令和二年(2020年)：**
-   - [【令和二年春場所(2020/03)】](https://ryutoro-galois.github.io/sumo-predictor/PredResult_sumo_targetYM_202001.html)：TBA
-   - [【令和二年初場所(2020/01)】](https://ryutoro-galois.github.io/sumo-predictor/PredResult_sumo_targetYM_202001.html)：TBA
+    - [【令和二年夏場所(2020/05)】](https://ryutoro-galois.github.io/sumo-predictor/PredResult_sumo_targetYM_202005.html)：TBA
+    - [【令和二年春場所(2020/03)】](https://ryutoro-galois.github.io/sumo-predictor/PredResult_sumo_targetYM_202003.html)：TBA
+    - [【令和二年初場所(2020/01)】](https://ryutoro-galois.github.io/sumo-predictor/PredResult_sumo_targetYM_202001.html)：TBA
    <br>
  
   - **令和元年(2019年)：**
