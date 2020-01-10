@@ -13,8 +13,9 @@
 ### **相撲予測の進捗（2019/11作成）：**
 - [【Sumo Predict Diaries (pdf)】](https://ryutoro-galois.github.io/sumo-predictor/SumoPredictDiaries_v1_201911.pdf){:target="_blank"}
 
-### **大相撲取り組み勝敗予測レポート（html形式; 毎場所(隔月)作成）：**
+### **大相撲取り組み勝敗予測レポート（html形式）：**
 - 概要：
+  - 毎場所(隔月)で作成
   - (step1):毎日7時に予測 -> (step2):毎日18時に予実の的中状況を確認
   - 15日間(初日~千秋楽)で1つのレポートが完成する
 - 各場所の予測レポート(html形式)：
