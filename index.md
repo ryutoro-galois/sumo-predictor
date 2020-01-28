@@ -1,19 +1,20 @@
 ## 【GithubPages:Sumo-Predictor】
 
 ### 目次
-- [x]  **相撲予測の進捗（2019/11作成）**
-- [x]  **大相撲取り組み勝敗予測レポート**
-- [x]  **その他のGithubPagesへのリンク**
+- [x]  **1. 相撲予測の進捗**
+- [x]  **2. 大相撲取り組み勝敗予測レポート**
+- [x]  **3. その他のGithubPages**
 <br> 
  
 --- 
 
 
 
-### **相撲予測の進捗（2019/11作成）：**
-- [【Sumo Predict Diaries (pdf)】](https://ryutoro-galois.github.io/sumo-predictor/SumoPredictDiaries_v1_201911.pdf)
+### **1. 相撲予測の進捗**
+- [【Sumo Predict Diaries (2019/11作成; pdf)】](https://ryutoro-galois.github.io/sumo-predictor/SumoPredictDiaries_v1_201911.pdf)
+<br><br>
 
-### **大相撲取り組み勝敗予測レポート（html形式）：**
+### **2. 大相撲取り組み勝敗予測レポート**
 - **概要：**
   - 毎場所(隔月)で作成
   - (step1):毎日7時に予測 -> (step2):毎日18時に予実の的中状況を確認
@@ -30,10 +31,11 @@
  
   - **令和元年(2019年)：**
     - [【令和元年九州場所(2019/11)】](https://ryutoro-galois.github.io/sumo-predictor/PredResult_sumo_targetYM_201911.html)
+    <br><br>
  
 ---
 
-### その他のGithubPagesへのリンク
+### **3. その他のGithubPages**
 - [【keiba-predictor】](https://ryutoro-galois.github.io/keiba-predictor/)
 - [【toy-samples】](https://ryutoro-galois.github.io/toy-samples/)
 
