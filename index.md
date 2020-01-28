@@ -2,7 +2,7 @@
 
 ### 目次
 - [x]  **1. 相撲予測の進捗**
-- [x]  **2. 大相撲取り組み勝敗予測レポート**
+- [x]  **2. 大相撲勝敗予測レポート**
 - [x]  **3. その他のGithubPages**
 <br> 
  
@@ -14,11 +14,11 @@
 - [【Sumo Predict Diaries (2019/11作成; pdf)】](https://ryutoro-galois.github.io/sumo-predictor/SumoPredictDiaries_v1_201911.pdf)
 <br><br>
 
-### **2. 大相撲取り組み勝敗予測レポート**
+### **2. 大相撲勝敗予測レポート**
 - **概要：**
   - 毎場所(隔月)で作成
   - (step1):毎日7時に予測 -> (step2):毎日18時に予実の的中状況を確認
-  - 15日間(初日~千秋楽)で1つのレポートが完成する
+  - 15日間(初日~千秋楽)で1つのレポートが完成
 - **各場所の予測レポート(html形式)：**
   - **令和二年(2020年)：**
     - [【令和二年九州場所(2020/11)】](https://ryutoro-galois.github.io/sumo-predictor/PredResult_sumo_targetYM_202011.html) (TBA)
