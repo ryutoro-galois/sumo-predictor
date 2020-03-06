@@ -25,7 +25,7 @@
     - [【令和二年秋場所(2020/09)】](https://ryutoro-galois.github.io/sumo-predictor/PredResult_sumo_targetYM_202009.html) (TBA)
     - [【令和二年名古屋場所(2020/07)】](https://ryutoro-galois.github.io/sumo-predictor/PredResult_sumo_targetYM_202007.html) (TBA)
     - [【令和二年夏場所(2020/05)】](https://ryutoro-galois.github.io/sumo-predictor/PredResult_sumo_targetYM_202005.html) (TBA)
-    - [【令和二年春場所(2020/03)】](https://ryutoro-galois.github.io/sumo-predictor/PredResult_sumo_targetYM_202003.html) **<font color="Tomato">【開催中】</font>**
+    - [【令和二年春場所(2020/03)】](https://ryutoro-galois.github.io/sumo-predictor/PredResult_sumo_targetYM_202003.html) (2020/03/08~2020/03/22) **<font color="Tomato">【開催中】</font>**
     - [【令和二年初場所(2020/01)】](https://ryutoro-galois.github.io/sumo-predictor/PredResult_sumo_targetYM_202001.html) (2020/01/12~2020/01/26)
    <br>
  
